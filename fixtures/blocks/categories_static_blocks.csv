@@ -1,0 +1,6 @@
+title,identifier,content
+"Sergio Footer Links Block",sergio_footer_links_block,"<ul class=""footer links"">
+    <li class=""nav item""><a href=""{{store url=""about-us""}}"">Sergio About us</a></li>
+    <li class=""nav item""><a href=""{{store url=""customer-service""}}"">Sergio Customer Service</a></li>
+</ul>
+"
